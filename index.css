@@ -2,7 +2,7 @@ body {
     background-color: #80d4ea;
 }
 
-#clock {
+.clock {
     height: 100px;
     width: 800px;
     margin: auto;
@@ -13,4 +13,32 @@ body {
     text-align: center;
     color: white;
     font-size: 100px;
+}
+
+.white {
+  color: white;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.purple {
+  color: purple;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
 }
